@@ -1,6 +1,6 @@
-🌐 ¡Hola mundo!
+🌐 ¡Hola, como estan!
 
-👋 Me llamo _COMPLETAR_
-🗺️ y actualmente estoy en _COMPLETAR_.
+👋 Me llamo Sebastian.
+🗺️ y actualmente estoy en mi casa, con sueño.
 
 📆 En los próximos días, me gustaría _COMPLETAR_.
