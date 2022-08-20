@@ -1,6 +1,6 @@
-🌐 ¡Hola mundo!
+🌐 ¡Hola, como estan!
 
-👋 Me llamo Ezequiel Victor Mondone
-🗺️ y actualmente estoy en Hurlingham.
+👋 Me llamo _COMPLETAR_
+🗺️ y actualmente estoy en _COMPLETAR_.
 
 📆 En los próximos días, me gustaría irme de vacaciones.
